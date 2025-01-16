@@ -1,8 +1,8 @@
-# Portfolio Template
+# Simple Portfolio Template
 
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
 
-To View the live site click [here &rarr;](https://github.com/tommy120429)
+To View the live site click [here &rarr;](https://github.com/jimmy0221)
 
 ## Features
 
@@ -21,10 +21,10 @@ To View the live site click [here &rarr;](https://github.com/tommy120429)
 You'll need [Git](https://git-scm.com) to be installed on your computer. 
 ```
 # Clone this repository
-$ git clone https://github.com/tommy120429/portfolio-template
+$ git clone https://github.com/jimmy0221/portfolio-template
 ```
 
-If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/tommy120429/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
+If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/jimmy0221/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
 
 ## Editing the Template 🔨
 
@@ -39,7 +39,7 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Thomas White</span>
+        <span>Jim</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
         <p>Backend Engineer based in the United States</p>
@@ -142,17 +142,17 @@ For changing the screenshot:
         <!-- Update the links to point to your accounts -->
         <ul class="footer__social-links">
             <li class="footer__social-link-item">
-                <a href="https://twitter.com/tommy120429/">
+                <a href="https://twitter.com/jimmy0221/">
                     <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://github.com/tommy120429/">
+                <a href="https://github.com/jimmy0221/">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://codepen.io/tommy120429">
+                <a href="https://codepen.io/jimmy0221">
                     <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
                 </a>
             </li>
@@ -165,11 +165,11 @@ For changing the screenshot:
 
         <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
         <p>
-            &copy; 2024 - Template designed & developed by <a href="https://github.com/tommy120429" class="link">Thomas
+            &copy; 2024 - Template designed & developed by <a href="https://github.com/jimmy0221" class="link">Thomas
           White</a>.
         </p>
         <div class="footer__github-buttons">
-            <iframe src="https://ghbtns.com/github-btn.html?user=tommy120429&repo=portfolio-template&type=watch&count=true"
+            <iframe src="https://ghbtns.com/github-btn.html?user=jimmy0221&repo=portfolio-template&type=watch&count=true"
                 frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
             </iframe>
         </div>
